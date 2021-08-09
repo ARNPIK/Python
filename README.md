@@ -22,3 +22,8 @@ Pour référence 1 Platine = 10 000 Ors = 10 000 000 Argents = 1 000 000 000 Bro
 ### Problèmes :
 
 * Je n'ai pas vraiment tester toutes les convertions donc il se peut qu'il y ait des erreurs de calculs !
+
+## Utilisation
+
+Vous pouvez utiliser mes programmes et les modifier car je pense qu'il existe déjà de nombreux programmes similaires et que mon code est loin d'être parfait.
+J'espère qu'ils vous seront utiles si vous en avez besoin !
